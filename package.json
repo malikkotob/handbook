@@ -79,6 +79,8 @@
     "retext-repeated-words": "^3",
     "retext-sentence-spacing": "^4",
     "retext-usage": "^0",
+    /* If updating prettier, see if the \$ issue at https://github.com/prettier/prettier/issues/6213 is resolved.
+    of so, remove the prettier-ignore tags that work-around this issue. */
     "prettier": "^1"
   }
 }
